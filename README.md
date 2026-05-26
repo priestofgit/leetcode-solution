@@ -1,4 +1,4 @@
 # leetcode-solution
 solution of all the questions i have solved 
 <br>
-be consistent
+be consistent and have clarity
